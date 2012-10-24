@@ -1,0 +1,11 @@
+#document settings
+title: Document Title Here
+description: Office of Management and Budget
+url: http://project-open-data.github.com/open-standards
+repo_url: https://github.com/project-open-data/open-standards
+
+# default build settings for running locally, no need to edit
+server: auto
+safe: true
+pymgemnts: true
+auto: true
