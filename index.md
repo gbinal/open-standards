@@ -11,6 +11,7 @@ Open standards refer to use of data, products and services that anyone can use a
 A standard is open if its manner of distribution satisfies the following conditions:
 
 **Access**
+
 The work shall be available as a whole and at no more than a reasonable reproduction cost, preferably downloading via the Internet without charge. The work must also be available in a convenient and modifiable form.
 
 *Comment: This can be summarized as ‘social’ openness – not only are you allowed to get the work but you can get it. ‘As a whole’ prevents the limitation of access by indirect means, for example by only allowing access to a few items of a database at a time.*
