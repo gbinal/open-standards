@@ -14,8 +14,8 @@ This Appendix formally defines what is meant by Open Standards.
 
 Files:
 ------
-index.md - content the Open Standards Definition
-all other files - web serving files
+1. `index.md` - content the Open Standards Definition
+2. all other files - web serving files
 
 Where You Come In
 -----------------
