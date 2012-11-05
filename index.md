@@ -6,7 +6,9 @@ layout: home
 Open Standards
 =========================
 
-Open standards are those developed through a consensus-drive, transparent process and enable  data, products and services to be used by anyone, at any time, with minimal limitations or use restrictions.  More specifically, a standard is open if it is developed according to the following principles :
+Open Standards are those developed through an open, collaborative, and transparent process-- whether or not intellectual property is involved-- and are made readily available and accessible to all on fair, reasonable, and nondiscriminatory terms and conditions. Open standards enable data, products and services to be used by anyone, at any time, with minimal limitations or use restrictions.  Whenever possible, these standards are best developed by private sector standards organizations and are not dominated by, or under the control of, a single organization or group of organizations 
+
+More specifically, a standard is open if it is developed according to the following principles :
 
 **Due process**
 Decisions are made with equity and fairness among participants. No one party dominates or guides standards development. Standards processes are transparent and opportunities exist to appeal decisions. Processes for periodic standards review and updating are well defined.
@@ -26,13 +28,6 @@ Standards processes are open to all interested and informed parties.
 **Cooperation**
 The standard emerges through respectful cooperation between standards organizations, whereby each respects the autonomy, integrity, processes, and intellectual property rules of the others.
 
-**Collective Empowerment**
-There is a commitment by affirming standards organizations and their participants to collective empowerment by striving for standards that:
-* are chosen and defined based on technical merit, as judged by the contributed expertise of each participant;
-* provide global interoperability, scalability, stability, and resiliency;
-* enable global competition;
-* serve as building blocks for further innovation; and
-* contribute to the creation of global communities, benefiting humanity.
 
 ---------------
 
@@ -41,11 +36,11 @@ In addition, a standard is open if its use adheres to the following principles:
 **Availability**
 Standards specifications are made accessible to all for implementation and deployment. Affirming standards organizations have defined procedures to develop specifications that can be implemented under fair terms. Given market diversity, fair terms may vary from royalty-free to fair, reasonable, and non-discriminatory terms (FRAND).
 
-**Voluntary Adoption**
-Standards are voluntarily adopted and success is determined by the market.
+**Voluntary Use**
+Use of standards are voluntary and success is determined by the market.
 
+* Adapted from multiple sources including: (1) [USPTO Statement to WIPO](http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/Critical%20Issues/Open%20Standards/USPTO-WIPO-Statement.pdf) (2) [the ANSI IPRPC Critical Issue Paper](http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/Critical%20Issues/Open%20Standards/CIP-OpenStandards.pdf) (3) [the NSTC SOS October Report](http://standards.gov/upload/Federal_Engagement_in_Standards_Activities_October12_final.pdf) (4) [the NSTC Smart Grid June 2011 Report](http://www.whitehouse.gov/sites/default/files/microsites/ostp/nstc-smart-grid-june2011.pdf)*
 
-*[Source: Adapted from open standards principles available at Opendefinition.org](http://opendefinition.org/)]*
 
 #Examples of Open Standards
 *TBD
