@@ -42,8 +42,5 @@ Use of standards are voluntary and success is determined by the market.
 * Adapted from multiple sources including: (1) [USPTO Statement to WIPO](http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/Critical%20Issues/Open%20Standards/USPTO-WIPO-Statement.pdf) (2) [the ANSI IPRPC Critical Issue Paper](http://publicaa.ansi.org/sites/apdl/Documents/Standards%20Activities/Critical%20Issues/Open%20Standards/CIP-OpenStandards.pdf) (3) [the NSTC SOS October Report](http://standards.gov/upload/Federal_Engagement_in_Standards_Activities_October12_final.pdf) (4) [the NSTC Smart Grid June 2011 Report](http://www.whitehouse.gov/sites/default/files/microsites/ostp/nstc-smart-grid-june2011.pdf)*
 
 
-#Examples of Open Standards
-*TBD
-
 #Case Study
 [National Broadband Map](http://www.wilsoncenter.org/sites/default/files/National%20Broadband%20Map%20Wilson%20Center%20Case%20Study.pdf)
